@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318984429174",
+    "project_id": "okonomi-cf40f",
+    "storage_bucket": "okonomi-cf40f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318984429174:android:7aa0d4e37c214f2e298957",
+        "android_client_info": {
+          "package_name": "com.okonomi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318984429174-rqih0smkmjjl31q34k7jqhnklt46i1q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvphYwvoMMkF4RzMEIiTceaYP4vYtrs_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318984429174-rqih0smkmjjl31q34k7jqhnklt46i1q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
